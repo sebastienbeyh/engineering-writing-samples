@@ -1,6 +1,6 @@
 # Engineering Writing Samples
 
-Selected examples of technical writing by **Sébastien Beyh, PhD**.
+Selected examples of technical writing by **Sébastien Beyh**.
 
 This repository demonstrates writing style, technical depth, structure and the ability to translate complex engineering subjects into clear professional content.
 
