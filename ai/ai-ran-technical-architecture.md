@@ -512,7 +512,8 @@ The fundamental engineering challenge is therefore to create an architecture in 
 
 ### Published Book
 
-- [**AI-RAN Engineering: Intelligent Radio Networks for 5G and Future 6G**](https://www.amazon.com/dp/B0GX2SLJ85) — View on Amazon
+- AI-RAN Engineering: Intelligent Radio Networks for 5G and Future 6G
+- [**View on Amazon**](https://www.amazon.com/dp/B0GX2SLJ85)
 
 ### Technical Portfolio
 
